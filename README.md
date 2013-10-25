@@ -3,7 +3,7 @@ develop-doc
 
 ## 网络资源
 
-1. GIT服务器 
+1. 源代码服务器 - (GIT)
     * [ssh](ssh://git.myrsoft.net)  <ssh://git.myrsoft.net>
     * [git](git.myrsoft.net)    <git.myrsoft.net>
     * [http](http://git.myrsoft.net) <http://git.myrsoft.net>
